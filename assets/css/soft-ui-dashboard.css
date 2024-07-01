@@ -23004,7 +23004,7 @@ hr.horizontal.gray-light {
   right: 1px;
 }
 
-html * {
+* {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
